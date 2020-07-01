@@ -7,8 +7,8 @@ import App from '../App';
 
 Enzyme.configure({ adapter: new Adapter() })
 
-describe('With Enzyme', () => {
-  it('renders a navbar', () => {
+describe('<App />', () => {
+  it('renders an App component', () => {
     const wrapper = shallow((
       <App />
     ));
