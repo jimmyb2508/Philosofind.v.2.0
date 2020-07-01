@@ -12,7 +12,7 @@ import EnlightenmentBox from './components/EnlightenmentBox';
 import ModernBox from './components/ModernBox';
 import ArtistsBox from './components/ArtistsBox';
 import EntrepreneurBox from './components/EntrepreneurBox';
-import ScientistsBox from './components/ScientstsBox';
+import ScientistsBox from './components/ScientistsBox';
 import APIBox from './components/APIBox';
 import Categories from './components/Categories';
 import CategoriesAncient from './components/Categories/CategoriesAncient';
